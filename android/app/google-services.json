@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389853685170",
+    "project_id": "ripple-sih",
+    "storage_bucket": "ripple-sih.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389853685170:android:b6c2129cb8e96e94a370ab",
+        "android_client_info": {
+          "package_name": "com.example.ripple_sih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy3zmyXsftZQnHY3zouaNXWzd4Ny-BstI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
