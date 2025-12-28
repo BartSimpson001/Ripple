@@ -1,3 +1,6 @@
 [submodule "BACKEND_FOR_ADMIN_DASHBOARD/ripple_backend"]
 	path = BACKEND_FOR_ADMIN_DASHBOARD/ripple_backend
 	url = https://github.com/Ugesh-Praavin/ripple_backend_nest.git
+[submodule "FRONTEND_FOR_ADMIN_DASHBOARD/Ripple-dashboard"]
+	path = FRONTEND_FOR_ADMIN_DASHBOARD/Ripple-dashboard
+	url = https://github.com/Ugesh-Praavin/ripple_frontend.git
